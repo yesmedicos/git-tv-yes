@@ -550,6 +550,13 @@
             font-size: 0.9rem;
         }
 
+        
+         .footer-section a
+         {    
+            text-decoration: none;
+            color: rgba(255, 255, 255, 0.7);
+        }
+        
         .footer-bottom {
             border-top: 1px solid rgba(255,255,255,0.1);
             padding-top: 2rem;
