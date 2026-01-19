@@ -216,7 +216,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.linearicons.com/free/1.0.0/icon-font.min.css">
-    <link rel="stylesheet" href="/assets/main.css?v1">
+    <link rel="stylesheet" href="/assets/main.css?v2">
     
 </head>
 <body>
@@ -248,7 +248,21 @@
                     <div class="mockup-screen">
                         
                         
-                         <img src="assets/images/screenshot.jpg" alt="Painel de Espera Digital em TV mostrando chamada de paciente em clínica médica" class="screenshot-image loaded"> 
+                   <div class="slideshow-container">
+                    <div class="slide fade">
+                        <img src="assets/images/screenshot.jpg" alt="Painel de Chamada Digital em TV mostrando chamada de paciente em clínica médica" style="width:100%">
+                    </div>
+                    <div class="slide fade">
+                        <img src="assets/images/screenshot2.jpg" alt="Painel de Chamada Digital em uma clínica médica com pacientes" style="width:100%">
+                    </div>
+                    
+                    <!-- Navigation dots -->
+                    <div class="slideshow-dots">
+                        <span class="dot" onclick="currentSlide(1)"></span>
+                        <span class="dot" onclick="currentSlide(2)"></span>
+                    </div>
+                    </div>
+
                     </div>
                 </div>
             </div>
@@ -489,6 +503,48 @@
                  
             });
         });
+
+        let slideIndex = 0;
+let slideTimer;
+
+function showSlides() {
+  let slides = document.getElementsByClassName("slide");
+  let dots = document.getElementsByClassName("dot");
+  
+  // Hide all slides
+  for (let i = 0; i < slides.length; i++) {
+    slides[i].classList.remove("active");
+  }
+  
+  // Remove active class from all dots
+  for (let i = 0; i < dots.length; i++) {
+    dots[i].classList.remove("active");
+  }
+  
+  // Increment slide index
+  slideIndex++;
+  if (slideIndex > slides.length) {
+    slideIndex = 1;
+  }
+  
+  // Show current slide and dot
+  slides[slideIndex - 1].classList.add("active");
+  dots[slideIndex - 1].classList.add("active");
+  
+  // Change slide every 5 seconds
+  slideTimer = setTimeout(showSlides, 5000);
+}
+
+function currentSlide(n) {
+  clearTimeout(slideTimer);
+  slideIndex = n - 1;
+  showSlides();
+}
+
+// Start slideshow when page loads
+document.addEventListener('DOMContentLoaded', function() {
+  showSlides();
+});
     </script>
 </body>
 </html>
