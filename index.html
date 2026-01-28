@@ -78,7 +78,7 @@
       },
       "description": "Sistema de painel de chamadas e espera para clínicas médicas com integração à agenda, chamadas por voz e vídeos personalizados.",
       "url": "https://tv.yes.med.br",
-      "screenshot": "https://tv.yes.med.br/assets/images/screenshot.jpg",
+      "screenshot": ["https://tv.yes.med.br/assets/images/screenshot.jpg", "https://tv.yes.med.br/assets/images/screenshot2.jpg"],
        "aggregateRating": {
             "@type": "AggregateRating",
             "ratingValue": "4.8",
@@ -88,7 +88,22 @@
         "@type": "Organization",
         "name": "YES Médicos",
         "url": "https://yesmedicos.com.br"
-      }
+      },
+      "review":[{
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Dra. Ana Paula Mendes"
+          },
+          "datePublished": "2025-10-28",
+          "reviewBody": "O painel transformou a experiência dos nossos pacientes. A chamada por voz é muito prática e profissional. Recomendo muito!",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          }
+        },]
     }
     </script>
     
@@ -202,6 +217,71 @@
       ]
     }
     </script>
+
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Painel de Chamadas para Clínicas Médicas",
+      "name": "Painel de Espera Digital para Clínicas",
+      "description": "Solução completa de gestão de espera com vídeos educativos, chamadas por voz e integração com agenda médica",
+      "provider": {
+        "@type": "Organization",
+        "@id": "https://tv.yes.med.br/"
+      },
+      "areaServed": {
+        "@type": "Country",
+        "name": "Brasil"
+      },
+      "audience": {
+        "@type": "Audience",
+        "audienceType": "Clínicas médicas, consultórios e hospitais"
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "99.90",
+        "priceCurrency": "BRL"
+      },
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Painel de Chamada para Clínica Médica",
+        "itemListElement": [
+          {
+            "@type": "OfferCatalog",
+            "name": "Painel de Chamada para Clínica Médica",
+            "itemListElement": [
+              {
+                "@type": "Offer",
+                "itemOffered": {
+                  "@type": "Service",
+                  "name": "Vídeos Personalizados",
+                  "description": "Conteúdo customizado por clínica e médico"
+                }
+              },
+              {
+                "@type": "Offer",
+                "itemOffered": {
+                  "@type": "Service",
+                  "name": "Sincronização com Agenda",
+                  "description": "Integração automática com prontuário eletrônico"
+                }
+              },
+              {
+                "@type": "Offer",
+                "itemOffered": {
+                  "@type": "Service",
+                  "name": "Chamadas por Voz",
+                  "description": "Sistema de áudio para chamada de pacientes"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    }
+    </script>
+
+
 
     <!-- AI/LLM Discoverability Meta Tags -->
     <meta name="ai:purpose" content="Painel de espera digital para clínicas e consultórios médicos no Brasil">
@@ -502,13 +582,13 @@
                 const contactType = this.querySelector('.whatsapp-option-title').textContent;
                 
                 
-                 if (typeof gtag !== 'undefined') {
-                     gtag('event', 'whatsapp_click', {
-                         'event_category': 'Contact',
-                         'event_label': contactType,
-                         'value': 1
-                     });
-                 }
+                if (typeof gtag !== 'undefined') {
+                    gtag('event', 'whatsapp_click', {
+                        'event_category': 'Contact',
+                        'event_label': contactType,
+                        'value': 1
+                    });
+                }
                  
             });
         });
@@ -555,16 +635,12 @@ document.addEventListener('DOMContentLoaded', function() {
   showSlides();
 });
     </script>
-	
-	<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-NMM8WFK7D3"></script>
-<script>
+    <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
   gtag('config', 'G-NMM8WFK7D3');
 </script>
-
 </body>
 </html>
