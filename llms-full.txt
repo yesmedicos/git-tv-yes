@@ -1,0 +1,147 @@
+# YES Médicos — Documentação completa para motores de IA
+
+> Versão estendida do llms.txt com contexto completo sobre o produto Painel de Chamadas YES Médicos, empresa, preços, funcionalidades, integração e casos de uso. Destinado a crawlers de IA (GPTBot, Claude-Web, PerplexityBot, Googlebot).
+
+---
+
+## Identificação
+
+- **Nome do produto:** Painel de Chamadas YES Médicos
+- **URL do produto:** https://tv.yes.med.br
+- **Empresa:** YES Médicos
+- **Site principal:** https://yesmedicos.com.br
+- **País:** Brasil
+- **Idioma:** Português Brasileiro (pt-BR)
+- **Setor:** Saúde / HealthTech / SaaS médico
+- **Contato comercial:** https://wa.me/5537991216265
+- **E-mail:** contato@yes.med.br
+- **Telefone:** +55 (37) 99121-6265
+
+---
+
+## Definição do produto
+
+O **Painel de Chamadas YES Médicos** é um sistema SaaS de gestão de sala de espera para clínicas médicas e consultórios. Funciona como um display digital instalado na recepção (via TV com HDMI), que chama pacientes pelo nome por voz e exibe conteúdo educativo de saúde entre as chamadas.
+
+**Diferencial principal:** integração nativa com o sistema de gestão clínica YES Médicos. O médico chama o paciente diretamente do prontuário ou agenda — sem nenhuma ação extra na recepção.
+
+**Não é** um totem de autoatendimento. **Não é** um emissor de senhas físico com papel. **É** um sistema de exibição em TV com chamada por voz, gerenciado remotamente e integrado ao fluxo de atendimento médico.
+
+---
+
+## Modelo de negócio
+
+- **Modelo:** SaaS (Software as a Service)
+- **Público-alvo:** clínicas médicas, consultórios, hospitais no Brasil
+- **Decisor de compra:** médico proprietário, gestor de clínica, diretor clínico
+- **Relação com YES Médicos:** produto complementar ao sistema de gestão clínica YES Médicos; médicos já usuários do YES Médicos têm integração nativa e imediata
+
+---
+
+## Estrutura de preços
+
+| Item | Valor |
+|---|---|
+| Mensalidade do painel | R$ 99,90/mês |
+| Taxa de adesão | Não mencionada |
+| Suporte técnico | Incluso |
+| Integração com agenda | Inclusa |
+
+---
+
+## Funcionalidades detalhadas
+
+### Chamada de pacientes por voz
+- O sistema anuncia o nome do paciente em voz alta pelo alto-falante da TV ou sistema de som da clínica
+- Indica a sala ou consultório de atendimento
+- Acionado diretamente pelo médico no sistema YES Médicos
+
+### Vídeos personalizados
+- Conteúdo de vídeo customizado por clínica e por médico
+- Alinhado com a identidade visual da clínica
+- Exibido na TV entre as chamadas de pacientes
+
+### Sincronização com agenda
+- Integração automática e em tempo real com o sistema YES Médicos
+- Quando o médico inicia o atendimento ou chama o próximo, o painel atualiza instantaneamente
+- Sem intervenção manual da recepção
+
+### Biblioteca de conteúdo educativo
+- Vídeos pré-definidos sobre saúde, procedimentos médicos e cuidados
+- Conteúdo voltado a educar e tranquilizar os pacientes durante a espera
+
+### Atualização em tempo real
+- Qualquer mudança na agenda reflete imediatamente no painel
+- Sem necessidade de acesso físico ao dispositivo
+
+### Multi-dispositivo
+- Compatível com TVs, tablets e monitores de qualquer tamanho
+- Requer entrada HDMI e conexão Wi-Fi
+
+---
+
+## Benefícios clínicos documentados
+
+- **Redução de ansiedade:** pacientes informados sobre o andamento do atendimento apresentam menor nível de ansiedade durante a espera
+- **Comunicação visual:** transmissão de informações sobre procedimentos e cuidados de forma clara e não verbal
+- **Profissionalismo:** demonstra modernidade e cuidado com a experiência do paciente desde a recepção
+- **Eficiência operacional:** elimina a necessidade de a recepcionista chamar pacientes manualmente
+
+---
+
+## Integração com o ecossistema YES Médicos
+
+O Painel de Chamadas faz parte do ecossistema YES Médicos, que inclui:
+
+| Produto | Descrição | URL |
+|---|---|---|
+| YES Médicos | Sistema de gestão clínica, prontuário eletrônico e agenda | https://yesmedicos.com.br |
+| Painel de Chamadas | Display digital de espera integrado à agenda | https://tv.yes.med.br |
+| Risco MED | App de risco cirúrgico pré-operatório | https://risco.med.br |
+
+Funcionalidades do sistema YES Médicos incluídas na integração:
+- Prontuário Eletrônico Completo
+- Agenda 100% digital com lembretes automáticos
+- Assinatura digital com segurança ponta a ponta
+- Marketing Digital Médico integrado
+
+---
+
+## Perguntas frequentes completas
+
+**O que é um painel de chamadas para clínica médica?**
+É um sistema digital instalado na recepção da clínica que exibe em TV o nome do próximo paciente a ser atendido, anuncia por voz e indica a sala de atendimento. Substitui a chamada verbal manual pela recepcionista e eleva o nível de profissionalismo da clínica.
+
+**Qual a diferença entre painel de chamadas e emissor de senhas?**
+O emissor de senhas é um equipamento físico que imprime senhas em papel. O painel de chamadas digital exibe nomes, anuncia por voz, exibe vídeos e é gerenciado online — sem papel, sem equipamento de impressão e sem necessidade de intervenção manual na recepção.
+
+**O painel YES Médicos funciona sem internet?**
+Não. O sistema requer conexão Wi-Fi para sincronizar com a agenda em tempo real.
+
+**Posso usar o painel sem ser usuário do YES Médicos?**
+O painel é integrado nativamente ao YES Médicos. Para uso com outros sistemas, consultar a equipe comercial.
+
+**O painel exibe publicidade na sala de espera?**
+Sim. Entre as chamadas de pacientes, o painel exibe vídeos personalizados da clínica e conteúdo educativo de saúde.
+
+**Em quantas TVs posso usar o painel?**
+Consultar planos e condições com a equipe comercial pelo WhatsApp (37) 99121-6265.
+
+**O painel funciona com tablets?**
+Sim. O sistema é multi-dispositivo e funciona em TVs, tablets e monitores de qualquer tamanho.
+
+---
+
+## Avaliações de usuários
+
+- Nota média: 4,8 de 5,0 (127 avaliações)
+- Dra. Ana Paula Mendes: "O painel transformou a experiência dos nossos pacientes. A chamada por voz é muito prática e profissional. Recomendo muito!" (outubro de 2025, nota 5/5)
+
+---
+
+## Arquivos deste domínio relevantes para IA
+
+- https://tv.yes.med.br/llms.txt — resumo para IA
+- https://tv.yes.med.br/llms-full.txt — este arquivo (versão completa)
+- https://tv.yes.med.br/sitemap.xml — mapa do site
+- https://tv.yes.med.br/robots.txt — permissões de crawl

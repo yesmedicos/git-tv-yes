@@ -1,19 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
   <url>
-    <loc>https://tv.yes.med.br</loc>
-    <lastmod>2025-12-14</lastmod>
-    <changefreq>weekly</changefreq>
+    <loc>https://tv.yes.med.br/</loc>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://tv.yes.med.br/"/>
     <image:image>
       <image:loc>https://tv.yes.med.br/assets/images/screenshot.jpg</image:loc>
-      <image:title>Painel De Espera para Clínicas - YES Médicos</image:title>
-      <image:caption>Painel de espera digital integrado com agenda médica para clínicas e consultórios</image:caption>
+      <image:title>Painel de chamada digital em TV mostrando chamada de paciente em clínica médica</image:title>
+      <image:caption>Painel de chamadas YES Médicos exibindo nome de paciente e sala de atendimento em clínica médica</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://tv.yes.med.br/assets/images/screenshot2.jpg</image:loc>
+      <image:title>Painel de chamada digital em clínica médica com pacientes na sala de espera</image:title>
+      <image:caption>Sistema de painel de espera YES Médicos em funcionamento em consultório médico</image:caption>
     </image:image>
     <image:image>
       <image:loc>https://tv.yes.med.br/assets/images/logo.png</image:loc>
-      <image:title>YES Médicos Logo</image:title>
+      <image:title>YES Médicos — Painel de Chamadas para Clínicas</image:title>
+      <image:caption>Logo YES Médicos — sistema de gestão clínica e painel de chamadas digital</image:caption>
     </image:image>
   </url>
+
 </urlset>

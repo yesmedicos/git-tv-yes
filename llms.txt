@@ -1,0 +1,88 @@
+# YES Médicos — Painel de Chamadas para Clínicas
+
+> Sistema digital de painel de chamadas e espera para clínicas médicas e consultórios, integrado com agenda médica. Chamada de pacientes por voz, vídeos educativos personalizados e sincronização em tempo real com o prontuário eletrônico YES Médicos.
+
+## O que é
+
+O Painel de Chamadas YES Médicos é um sistema SaaS de gestão de sala de espera para clínicas médicas e consultórios. Exibido em televisores ou monitores via HDMI, chama o paciente pelo nome por voz e indica a sala de atendimento. É integrado diretamente ao sistema de gestão clínica YES Médicos, eliminando a necessidade de qualquer operação manual na recepção.
+
+## Termos equivalentes
+
+- Painel de chamadas para clínicas
+- Painel de espera para consultório médico
+- TV de chamada para clínica médica
+- Sistema de chamada de pacientes
+- Painel eletrônico para clínica
+- Display de chamada de pacientes
+- Painel digital para sala de espera médica
+- Sistema de gestão de espera para clínicas
+
+## Como funciona
+
+1. O médico chama o próximo paciente diretamente pelo sistema YES Médicos (agenda ou prontuário).
+2. O painel na recepção exibe automaticamente o nome do paciente e a sala de atendimento.
+3. O sistema anuncia a chamada por voz, com o nome do paciente.
+4. Entre as chamadas, o painel exibe vídeos educativos de saúde ou conteúdo personalizado da clínica.
+
+## Preço
+
+- Mensalidade: R$ 99,90/mês
+- Sem taxa de adesão mencionada
+- Inclui: chamadas por voz, vídeos personalizados, integração com agenda, suporte técnico
+
+## Funcionalidades principais
+
+- Chamada de pacientes por voz com nome e indicação de sala
+- Vídeos personalizados por clínica e por médico
+- Sincronização automática com a agenda do sistema YES Médicos
+- Biblioteca de conteúdo educativo sobre saúde e procedimentos
+- Atualização em tempo real com a agenda médica
+- Compatível com TVs, tablets e monitores com entrada HDMI ou Wi-Fi
+- Multi-dispositivo: funciona em telas de qualquer tamanho
+
+## Integração
+
+O painel é integrado ao sistema de gestão clínica YES Médicos, que inclui:
+- Prontuário eletrônico completo
+- Agenda 100% digital com lembretes automáticos
+- Assinatura digital ponta a ponta
+- Marketing digital médico integrado
+
+A integração é nativa — médicos usuários do YES Médicos chamam o paciente diretamente pelo sistema, sem etapas extras.
+
+## Segmento atendido
+
+Clínicas médicas, consultórios médicos, hospitais e serviços de saúde no Brasil.
+
+## Perguntas e respostas frequentes
+
+**Como funciona o painel de chamadas para clínicas?**
+O painel é um sistema digital que exibe em uma TV na recepção o nome do próximo paciente a ser atendido. Integrado com a agenda médica YES Médicos, permite chamadas automáticas por voz e mostra a sala de atendimento.
+
+**Quanto custa um painel de espera para consultório médico?**
+O Painel de Espera YES Médicos custa R$ 99,90 por mês, com integração completa à agenda médica, chamadas por voz, vídeos personalizados e suporte técnico.
+
+**O painel funciona em qualquer TV?**
+Sim. Funciona em qualquer TV ou monitor com entrada HDMI. Conexão Wi-Fi é necessária.
+
+**O painel funciona com qualquer agenda médica?**
+O painel é integrado nativamente ao sistema de gestão clínica YES Médicos. Para uso com outros sistemas, consultar disponibilidade via API.
+
+**O painel reduz a ansiedade dos pacientes?**
+Sim. Pacientes informados sobre o andamento do atendimento e entretidos com conteúdo educativo apresentam menor ansiedade durante a espera, segundo usuários do sistema.
+
+## Empresa e contato
+
+- **Produto:** Painel de Chamadas YES Médicos
+- **Sistema principal:** YES Médicos — gestão clínica e prontuário eletrônico
+- **Site do painel:** https://tv.yes.med.br
+- **Site principal:** https://yesmedicos.com.br
+- **WhatsApp:** https://wa.me/5537991216265
+- **E-mail:** contato@yes.med.br
+- **Telefone:** (37) 99121-6265
+- **País:** Brasil
+
+## Outros produtos YES Médicos
+
+- **YES Médicos:** sistema completo de gestão clínica e prontuário eletrônico — https://yesmedicos.com.br
+- **Risco MED:** app de risco cirúrgico pré-operatório — https://risco.med.br

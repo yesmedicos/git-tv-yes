@@ -1,0 +1,26 @@
+/* EQUIPE */
+Empresa: YES Médicos
+Site: https://yesmedicos.com.br
+Contato: contato@yes.med.br
+Telefone: (37) 99121-6265
+Localização: Brasil
+
+/* PRODUTO */
+Nome: Painel de Chamadas YES Médicos
+URL: https://tv.yes.med.br
+Descrição: Sistema de painel de chamadas e espera digital para clínicas médicas e consultórios, integrado com agenda médica.
+Versão: 3.0
+Última atualização: 2025/01/01
+Idioma: Português Brasileiro (pt-BR)
+Setor: Saúde / HealthTech
+
+/* ECOSSISTEMA YES MÉDICOS */
+YES Médicos (gestão clínica): https://yesmedicos.com.br
+Painel de Chamadas: https://tv.yes.med.br
+Risco MED (risco cirúrgico): https://risco.med.br
+
+/* TECNOLOGIA */
+Plataforma: Web SaaS
+Hardware: Dispositivo plug & play via HDMI
+Compatibilidade: Chrome, Firefox, Safari, Edge
+Conexão: Wi-Fi

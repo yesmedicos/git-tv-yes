@@ -1,0 +1,39 @@
+{
+  "name": "Painel de Chamadas YES Médicos",
+  "short_name": "YES Painel",
+  "description": "Sistema digital de painel de chamadas e espera para clínicas médicas e consultórios, integrado com agenda YES Médicos.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2563eb",
+  "lang": "pt-BR",
+  "dir": "ltr",
+  "icons": [
+    {
+      "src": "/favicon-96x96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/assets/images/screenshot.jpg",
+      "sizes": "1200x630",
+      "type": "image/jpeg",
+      "label": "Painel de chamada digital exibindo nome de paciente em clínica médica"
+    },
+    {
+      "src": "/assets/images/screenshot2.jpg",
+      "sizes": "1200x630",
+      "type": "image/jpeg",
+      "label": "Painel de espera YES Médicos em funcionamento em consultório"
+    }
+  ],
+  "categories": ["health", "medical", "business"],
+  "related_applications": [
+    {
+      "platform": "web",
+      "url": "https://yesmedicos.com.br"
+    }
+  ]
+}
